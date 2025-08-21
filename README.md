@@ -1,7 +1,7 @@
 ## Olá! Miqueias Barros aqui
 
-- 🔭 No momento, atuando como Supervisor de Service Desk
-- 🌱 Javascript, HTML, CSS e Python
+- 🔭 No momento, atuando como Supervisor de Service Desk e buscando a transição para programação!
+- 🌱 JavaScript, HTML, CSS e Python
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Fã de videogames antigos
 
