@@ -5,7 +5,7 @@
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Fã de videogames antigos
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueias-Barros&show_icons=true&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Miqueias-Barros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqueias-Barros&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Miky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miky-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
