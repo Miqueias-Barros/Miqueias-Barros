@@ -1,8 +1,7 @@
 ## Olá! Miqueias Barros aqui
 
 - 🔭 No momento, atuando como Supervisor de Service Desk
-- 🌱 Javascript, HTML e CSS
-- 📫 Meu e-mail para contato: miqueias.barros.silv@gmail.com
+- 🌱 Javascript, HTML, CSS e Python
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Fã de videogames antigos
 
